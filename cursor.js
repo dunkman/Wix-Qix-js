@@ -7,7 +7,7 @@ var MOVE_AMOUNT = 3;
 // What the Cursor IS
 function Cursor () {
     // What color the cursor is
-    this.color = '#ff0000'; // Red
+    this.color = '#9900CC'; // Purple
     this.size = 10;
     
     // Where the cursor is on the screen (its upper left corner)
